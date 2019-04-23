@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 7387577bedeb9e04486a34cd112e9705
+timeCreated: 1556023041
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 8
+    100002: Area1
+    100004: Area2
+    100006: //RootNode
+    100008: Nerve
+    100010: Teeth Up high poly
+    100012: Teeth Up high poly_MeshPart0
+    100014: Teeth Up high poly_MeshPart1
+    100016: Teeth Up high poly_MeshPart10
+    100018: Teeth Up high poly_MeshPart11
+    100020: Teeth Up high poly_MeshPart12
+    100022: Teeth Up high poly_MeshPart2
+    100024: Teeth Up high poly_MeshPart3
+    100026: Teeth Up high poly_MeshPart4
+    100028: Teeth Up high poly_MeshPart5
+    100030: Teeth Up high poly_MeshPart6
+    100032: Teeth Up high poly_MeshPart7
+    100034: Teeth Up high poly_MeshPart8
+    100036: Teeth Up high poly_MeshPart9
+    100038: TopoSurface001
+    400000: 8
+    400002: Area1
+    400004: Area2
+    400006: //RootNode
+    400008: Nerve
+    400010: Teeth Up high poly
+    400012: Teeth Up high poly_MeshPart0
+    400014: Teeth Up high poly_MeshPart1
+    400016: Teeth Up high poly_MeshPart10
+    400018: Teeth Up high poly_MeshPart11
+    400020: Teeth Up high poly_MeshPart12
+    400022: Teeth Up high poly_MeshPart2
+    400024: Teeth Up high poly_MeshPart3
+    400026: Teeth Up high poly_MeshPart4
+    400028: Teeth Up high poly_MeshPart5
+    400030: Teeth Up high poly_MeshPart6
+    400032: Teeth Up high poly_MeshPart7
+    400034: Teeth Up high poly_MeshPart8
+    400036: Teeth Up high poly_MeshPart9
+    400038: TopoSurface001
+    2300000: 8
+    2300002: Area1
+    2300004: Area2
+    2300006: Nerve
+    2300008: Teeth Up high poly_MeshPart0
+    2300010: Teeth Up high poly_MeshPart1
+    2300012: Teeth Up high poly_MeshPart10
+    2300014: Teeth Up high poly_MeshPart11
+    2300016: Teeth Up high poly_MeshPart12
+    2300018: Teeth Up high poly_MeshPart2
+    2300020: Teeth Up high poly_MeshPart3
+    2300022: Teeth Up high poly_MeshPart4
+    2300024: Teeth Up high poly_MeshPart5
+    2300026: Teeth Up high poly_MeshPart6
+    2300028: Teeth Up high poly_MeshPart7
+    2300030: Teeth Up high poly_MeshPart8
+    2300032: Teeth Up high poly_MeshPart9
+    3300000: 8
+    3300002: Area1
+    3300004: Area2
+    3300006: Nerve
+    3300008: Teeth Up high poly_MeshPart0
+    3300010: Teeth Up high poly_MeshPart1
+    3300012: Teeth Up high poly_MeshPart10
+    3300014: Teeth Up high poly_MeshPart11
+    3300016: Teeth Up high poly_MeshPart12
+    3300018: Teeth Up high poly_MeshPart2
+    3300020: Teeth Up high poly_MeshPart3
+    3300022: Teeth Up high poly_MeshPart4
+    3300024: Teeth Up high poly_MeshPart5
+    3300026: Teeth Up high poly_MeshPart6
+    3300028: Teeth Up high poly_MeshPart7
+    3300030: Teeth Up high poly_MeshPart8
+    3300032: Teeth Up high poly_MeshPart9
+    4300000: Teeth Up high poly_MeshPart0
+    4300002: Teeth Up high poly_MeshPart1
+    4300004: Teeth Up high poly_MeshPart2
+    4300006: Teeth Up high poly_MeshPart3
+    4300008: Teeth Up high poly_MeshPart4
+    4300010: Teeth Up high poly_MeshPart5
+    4300012: Teeth Up high poly_MeshPart6
+    4300014: Teeth Up high poly_MeshPart7
+    4300016: Teeth Up high poly_MeshPart8
+    4300018: Teeth Up high poly_MeshPart9
+    4300020: Teeth Up high poly_MeshPart10
+    4300022: Teeth Up high poly_MeshPart11
+    4300024: Teeth Up high poly_MeshPart12
+    4300026: 8
+    4300028: Nerve
+    4300030: Area1
+    4300032: Area2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
